@@ -1,1 +1,0 @@
-import{i as e,t}from"./jsx-runtime-Cx0BB4qO.js";import{h as n,n as r}from"./pages-BPIAGWOW.js";var i=e(n(),1),a=t(),o=document.getElementById(`root`),s=(0,a.jsx)(r,{path:location.pathname});o.hasChildNodes()?(0,i.hydrateRoot)(o,s):(0,i.createRoot)(o).render(s);
